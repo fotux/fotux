@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fotux
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning html/css and js.
+- 🌱 I’m currently learning Full Stack (more backend).
 - 💞️ I’m looking to collaborate on any projects.
 - 📫 How to reach me email: karooolys@gmail.com
 
