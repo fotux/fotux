@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fotux
+- 👋 Hi, I’m @fotux (Karolis)
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Full Stack (more backend).
 - 💞️ I’m looking to collaborate on any projects.
